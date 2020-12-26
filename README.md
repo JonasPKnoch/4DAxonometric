@@ -1,6 +1,6 @@
 # 4D Isometric Projection
 
-<p align="center"><img alt="cover" src="https://1.bp.blogspot.com/-dmdRWJPVb-Q/XdssOcYzadI/AAAAAAAAAKs/ghB6CU6F-qgRta_2wMX9xgvWZUbqyXh7wCLcBGAsYHQ/s1600/cover.png"></p>
+<p align="center"><img alt="cover" width=400 height = 400 src="https://1.bp.blogspot.com/-dmdRWJPVb-Q/XdssOcYzadI/AAAAAAAAAKs/ghB6CU6F-qgRta_2wMX9xgvWZUbqyXh7wCLcBGAsYHQ/s1600/cover.png"></p>
 
 Normal, three-dimensional isometric projection is a method of mapping a three-dimensional space onto a two-dimensional space. 3D isometric projection is useful because the rules are simple, it is relatively trivial to implement, and all importantly it is easy to comprehend once it is implemented. Although there are distortions when going from a true 3D scene to an isometric one, (there is no foreshortening for example) a human brain can look at an isometric projection and easily understand what is going on spatially.
 
